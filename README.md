@@ -1,2 +1,4 @@
-# nobutake-redirector
-Redirect access to https://satsumareb.hatenadiary.com/
+---
+layout: forward
+target: https://example.com
+---
